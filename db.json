@@ -1,0 +1,410 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Colin Doyle",
+      "categoryID": "4",
+      "price": "428",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2F60326a1602af0-product1.jpg?alt=media&token=db86dd1d-ede3-4c21-a245-8549eb78a604",
+      "quantity": "990",
+      "desciption": "Ullam rerum quis id "
+    },
+    {
+      "id": "22",
+      "name": "Tatum Lindsay234",
+      "categoryID": "2",
+      "price": "652",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2F60326a1d6c072-product7.jpg?alt=media&token=6f2127c2-ea51-4d75-9afd-87c02f2c19a2",
+      "quantity": "438",
+      "desciption": "undefined"
+    },
+    {
+      "id": "2",
+      "name": "Cara Grant",
+      "categoryID": "2",
+      "price": "696",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2F60326a2cea524-product7.jpg?alt=media&token=58604949-dc9c-4d7a-940e-62e0f57545c9",
+      "quantity": "285"
+    },
+    {
+      "id": "1",
+      "name": "Bianca Lee",
+      "categoryID": "x164hvfiu",
+      "price": "939",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2F60326a1602af0-product1.jpg?alt=media&token=81588a58-15be-4965-ba40-3f454f2d4536",
+      "quantity": "497"
+    },
+    {
+      "id": "cjcg1f4jj",
+      "name": "August Short",
+      "categoryID": "2",
+      "price": "425",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp2.jpg?alt=media&token=bc8bc8e4-4a41-4c21-a7e4-1ffcc969387a",
+      "quantity": "454"
+    },
+    {
+      "id": "00a6ee8yd",
+      "name": "Mara Franks",
+      "categoryID": "3",
+      "price": "90",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp7.jpg?alt=media&token=ed92ceaf-abb0-4939-8d61-6dbeb1c144ec",
+      "quantity": "854"
+    },
+    {
+      "id": "321",
+      "name": "Mara Franksdsadasds",
+      "categoryID": "3",
+      "price": "90",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp7.jpg?alt=media&token=ed92ceaf-abb0-4939-8d61-6dbeb1c144ec",
+      "quantity": "854"
+    },
+    {
+      "id": "n7ngd1acb",
+      "name": "Katell Mckee",
+      "categoryID": "4",
+      "price": "323",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp10.jpg?alt=media&token=a1c7ee9b-6c95-4085-b958-f3f9e2fb512f",
+      "quantity": "338"
+    },
+    {
+      "id": "14zmv53o8",
+      "name": "Quamar Mcpherson",
+      "categoryID": "2",
+      "price": "463",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp10.jpg?alt=media&token=32e7ef91-9c35-4bc7-beca-4aeb5bbe163a",
+      "quantity": "350"
+    },
+    {
+      "id": "myia7a8cr",
+      "name": "Jesse Vaughn",
+      "categoryID": "2",
+      "price": "954",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp4.jpg?alt=media&token=fc7f4c66-f93b-4524-848e-b75d5843bd65",
+      "quantity": "942"
+    },
+    {
+      "id": "5m0wqigk6",
+      "name": "Roary Stafford",
+      "categoryID": "4",
+      "price": "564",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp6.jpg?alt=media&token=6aee978e-b8d0-4002-b10d-a0f48a495ddc",
+      "quantity": "487"
+    },
+    {
+      "id": "wnj062sum",
+      "name": "Kessie Simon",
+      "categoryID": "2",
+      "price": "520",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp13.jpg?alt=media&token=1b56fa7e-66c5-4b60-8af8-6e63b30d014b",
+      "quantity": "833"
+    },
+    {
+      "id": "u1z7p6osc",
+      "name": "Fulton Everett",
+      "categoryID": "2",
+      "price": "497",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp1.jpg?alt=media&token=a6a028d8-340f-486d-9dc7-c551e88d9879",
+      "quantity": "760"
+    },
+    {
+      "id": "4cbdtflsy",
+      "name": "Octavia Vasquez",
+      "categoryID": "4",
+      "price": "217",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp8.jpg?alt=media&token=1a2d4cdc-ff81-4a45-b3ed-3fed77a1f087",
+      "quantity": "50"
+    },
+    {
+      "id": "84efen9bu",
+      "name": "Xanthus Nolan",
+      "categoryID": "2",
+      "price": "112",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp7.jpg?alt=media&token=f57f3121-569b-4c6f-b104-79055d20d4c2",
+      "quantity": "397"
+    },
+    {
+      "id": "rytkfv9x4",
+      "name": "Ray Allison",
+      "categoryID": "3",
+      "price": "589",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp1.jpg?alt=media&token=3e2ab992-3675-4bed-9e80-6b7c1328f42a",
+      "quantity": "992",
+      "desciption": "Dolor voluptatem Ut"
+    },
+    {
+      "id": "whj8n6175",
+      "name": "Jeremy Workman",
+      "categoryID": "4",
+      "price": "199",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp1.jpg?alt=media&token=7cfd5f1c-8d9a-4541-ba84-b0a3c2a927e5",
+      "quantity": "474",
+      "desciption": "Eos asperiores labor"
+    },
+    {
+      "id": "2oy6q2b0n",
+      "name": "Adena Navarro",
+      "categoryID": "x89ex682v",
+      "price": "109",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp1.jpg?alt=media&token=a4f259f6-47ea-4b79-95d3-7d52984c7adb",
+      "quantity": "742",
+      "desciption": "Aut non voluptatem "
+    },
+    {
+      "id": "9nqq50vnj",
+      "name": "Lucy Roberts",
+      "categoryID": "4",
+      "price": "973",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp16.jpg?alt=media&token=9582ee97-1956-4584-bcf9-237d4eff78e9",
+      "quantity": "325",
+      "desciption": "At autem omnis sint"
+    },
+    {
+      "id": "azip3ax8v",
+      "name": "Philip Hogan",
+      "categoryID": "4",
+      "price": "20",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fp10.jpg?alt=media&token=f7fa6e63-e665-4844-9a68-4eac2cefc25e",
+      "quantity": "85",
+      "desciption": "Ab tenetur anim sed "
+    },
+    {
+      "id": "awyykkyt4",
+      "name": "David Key",
+      "categoryID": "4",
+      "price": "20",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fproduct7.jpg?alt=media&token=80cdc0b5-e954-48d0-a8df-123698bbd298",
+      "quantity": "-500",
+      "desciption": "Iure consequuntur ap"
+    },
+    {
+      "id": "nmyvf6pqe",
+      "name": "Madonna Mckinney",
+      "categoryID": "jz021e8xk",
+      "price": "786",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fproduct7.jpg?alt=media&token=ed6858e6-1bf8-4c8e-8236-c172cdd02cbf",
+      "quantity": "984",
+      "desciption": "Deserunt aspernatur "
+    },
+    {
+      "id": "mjasx347a",
+      "name": "Adria Odonnell321321312",
+      "categoryID": "4pf2xtcgv",
+      "price": "845",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fproduct13.jpg?alt=media&token=320c2338-7d05-409b-a9f6-ed0f311af8c8",
+      "quantity": "734",
+      "desciption": "Debitis labore et es"
+    },
+    {
+      "id": "oqy70uj2y",
+      "name": "Oliver Tanner2",
+      "categoryID": "2",
+      "price": "2323",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fproduct13.jpg?alt=media&token=f7094656-c210-4985-8a99-e4106bfd16b8",
+      "quantity": "584",
+      "desciption": "Officia aperiam amet"
+    },
+    {
+      "id": "oqy70uj23",
+      "name": "Oliver Tanner3212",
+      "categoryID": "2",
+      "price": "928",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fproduct13.jpg?alt=media&token=f7094656-c210-4985-8a99-e4106bfd16b8",
+      "quantity": "584",
+      "desciption": "Officia aperiam amet"
+    },
+    {
+      "id": "xm3vai7h9",
+      "name": "Josephine Conway",
+      "categoryID": "hh3pgw3pu",
+      "price": "420",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fproduct3.jpg?alt=media&token=5020fd60-cada-4160-b143-dee1b74943b4",
+      "quantity": "489",
+      "desciption": "Id autem mollit debi"
+    },
+    {
+      "id": "u7na4jspl",
+      "name": "Hamish Wilkerson",
+      "categoryID": "2",
+      "price": "357",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fproduct13.jpg?alt=media&token=8fdd7322-998f-4cbd-86fa-2130b81d99be",
+      "quantity": "705",
+      "desciption": "Atque aut nihil mole"
+    },
+    {
+      "id": "kispizop9",
+      "name": "Pamela Walter",
+      "categoryID": "hh3pgw3pu",
+      "price": "962",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fproduct1.jpg?alt=media&token=fe235db0-5119-4501-b94e-553eb5297867",
+      "quantity": "225",
+      "desciption": "Laborum quaerat exce"
+    },
+    {
+      "id": "m2i64wu76",
+      "name": "Reese Shannon",
+      "categoryID": "4",
+      "price": "144",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fproductbig1.jpg?alt=media&token=724e3962-283d-4c7f-96be-3bafefe1a2ce",
+      "quantity": "24",
+      "desciption": "Ipsum velit minim cu"
+    },
+    {
+      "id": "rtgc0unx1",
+      "name": "Clio Huber",
+      "categoryID": "2",
+      "price": "487",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/images%2Fproduct14.jpg?alt=media&token=04b4aa30-a8e5-4451-beed-6cb3883e3ae9",
+      "quantity": "122",
+      "desciption": "Ut mollit assumenda "
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "name": "Quần rách"
+    },
+    {
+      "id": "3",
+      "name": "Quần thủng"
+    },
+    {
+      "id": "4",
+      "name": "Áo rách"
+    },
+    {
+      "id": "jz021e8xk",
+      "name": "Cain 212321"
+    },
+    {
+      "id": "mjflcsbvd",
+      "name": "123213"
+    },
+    {
+      "id": "hh3pgw3pu",
+      "name": "214567"
+    }
+  ],
+  "user": [
+    {
+      "id": "23",
+      "fullname": "Lê Duy Sơn",
+      "username": "leduyson",
+      "password": "12345",
+      "email": "sonldph11925@fpt.edu.vn"
+    },
+    {
+      "id": "4cy4iq6si",
+      "fullname": "Nadine King",
+      "password": "Pa$$w0rd!",
+      "username": "lybaj",
+      "email": "hadysone@mailinator.com"
+    },
+    {
+      "id": "a2n4wh71w",
+      "fullname": "Chancellor Cochran",
+      "password": "Pa$$w0rd!",
+      "username": "virifet",
+      "email": "kuke@mailinator.com"
+    },
+    {
+      "id": "ue31npl34",
+      "fullname": "Kaitlin Witt",
+      "password": "Pa$$w0rd!",
+      "username": "lymisi",
+      "email": "sawyxi@mailinator.com"
+    },
+    {
+      "id": "uh3jft7bl",
+      "fullname": "Eve Albert",
+      "password": "Pa$$w0rd!",
+      "username": "bunoqo",
+      "email": "xuledec@mailinator.com"
+    },
+    {
+      "id": "j491ys7bk",
+      "fullname": "Anne Zamora",
+      "password": "Pa$$w0rd!",
+      "username": "zulafoxi",
+      "email": "zukimed@mailinator.com"
+    },
+    {
+      "id": "2vj9wtl90",
+      "fullname": "Odette Doyle",
+      "password": "Pa$$w0rd!",
+      "username": "tujis",
+      "email": "duko@mailinator.com"
+    },
+    {
+      "id": "tcehdumb6",
+      "fullname": "Griffith Ware",
+      "password": "Pa$$w0rd!",
+      "username": "tirinu",
+      "email": "leqijeti@mailinator.com"
+    },
+    {
+      "id": "0i0f9z19m",
+      "fullname": "Brenna Buck",
+      "password": "1111",
+      "username": "dosyvy",
+      "email": "pywinoq@mailinator.com"
+    }
+  ],
+  "contact": [
+    {
+      "id": "kd4vu9w5g",
+      "fullname": "Darryl Osborne",
+      "email": "qezebamo@mailinator.com",
+      "phone": "+1 (468) 749-9502",
+      "content": "Cillum occaecat dolo"
+    },
+    {
+      "id": "1gosd78mi",
+      "fullname": "Laura Hayden",
+      "email": "buqetanobu@mailinator.com",
+      "phone": "+1 (276) 634-5119",
+      "content": "Velit eum in repelle"
+    },
+    {
+      "id": "j077dlu2v",
+      "fullname": "Callum Page",
+      "email": "ruzunun@mailinator.com",
+      "phone": "+1 (358) 698-4668",
+      "content": "Dolor et quaerat ver"
+    },
+    {
+      "id": "afrzh683z",
+      "fullname": "Raya Adkins",
+      "email": "kevocyb@mailinator.com",
+      "phone": "+1 (807) 705-5999",
+      "content": "Sapiente blanditiis "
+    },
+    {
+      "id": "ex180n7q5",
+      "fullname": "Jolene Mccray321321",
+      "email": "wivamymy@mailinator.com",
+      "phone": "+1 (921) 736-4073",
+      "content": "Quo ducimus volupta"
+    },
+    {
+      "id": "wurc2xxv6",
+      "fullname": "Josephine Gross",
+      "email": "momapax@mailinator.com",
+      "phone": "+1 (911) 586-6458",
+      "content": "Alias consequuntur q"
+    },
+    {
+      "id": "qkcjbisoq",
+      "fullname": "Brooke Moon",
+      "email": "jyxytajyhy@mailinator.com",
+      "phone": "+1 (269) 761-3348",
+      "content": "Voluptatem fugiat "
+    },
+    {
+      "id": "wjaogkjw0",
+      "fullname": "Justin Armstrong",
+      "email": "sypiqamav@mailinator.com",
+      "phone": "+1 (809) 734-7844",
+      "content": "Aut adipisci et nesc"
+    }
+  ]
+}
